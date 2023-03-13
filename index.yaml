@@ -3,12 +3,42 @@ entries:
   micro-service:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-13T01:23:16.559645+01:00"
+    created: "2023-03-13T02:56:31.563613315Z"
+    description: A Helm chart for Kubernetes
+    digest: 41aef5cca23b89f96eae7bf7e84318f6a51e4b1c7c12f5d9ecabe517fffb278f
+    name: micro-service
+    type: application
+    urls:
+    - micro-service-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-03-13T02:56:31.563217815Z"
+    description: A Helm chart for Kubernetes
+    digest: 8382c2661fbdde7a208b51f2d03fe37e641e662df17af2d84ae1f8542b962fc7
+    name: micro-service
+    type: application
+    urls:
+    - micro-service-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-03-13T02:56:31.562805615Z"
+    description: A Helm chart for Kubernetes
+    digest: de98c3cbc07095b6f0f6dce2e8653fdfe31414bc6c1951042d902a1901b34f8f
+    name: micro-service
+    type: application
+    urls:
+    - micro-service-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-03-13T02:56:31.562377915Z"
     description: A Helm chart for Kubernetes
     digest: 0ea9bb3ee4c0c2ebf8ed3ee34cf44e1bc600d39e63ab03d0766d5644e56ccd83
     name: micro-service
     type: application
     urls:
-    - https://lolo-kun.github.io/charts/micro-service-0.1.0.tgz
+    - micro-service-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-13T01:23:16.559028+01:00"
+generated: "2023-03-13T02:56:31.561728315Z"
