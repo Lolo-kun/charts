@@ -23,6 +23,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Index
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           helm repo index .
           git config --global user.email "lolokun2501@gmail.com"
